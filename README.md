@@ -1,6 +1,7 @@
 # 💫 About Me:
 
 Hi👋, Im Drew, i am currently 18 years old from the Phillipenes!
+
 I'm currently working on a few startup companies, which are mostly based around game<br>development<br><br>I love working with computers and learning new things every day!<br><br>I'm not currently very active on GitHub but i soon plan to start making open source software!<br><br>
 
 
